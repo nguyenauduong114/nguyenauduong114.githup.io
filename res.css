@@ -1,0 +1,8 @@
+@media (max-width: 768px){
+    .about-item{
+        width: 100%;
+    } 
+    .big-image{
+        width: 90vw;
+    }
+}
